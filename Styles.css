@@ -1,0 +1,33 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #222;
+    color: #fff;
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  #countdown {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    font-size: 2rem;
+  }
+  
+  #countdown div {
+    background-color: #444;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  small {
+    display: block;
+    font-size: 0.8rem;
+    margin-top: 10px;
+    color: #ccc;
+  }
+  
